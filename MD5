@@ -1,0 +1,12 @@
+16578d8822d963b9f752172e2adb27e5 *DESCRIPTION
+f07c34e238d736083da62d2bf78da3d1 *LICENSE
+b5233b4be8287abefde0def973ee2a1f *NAMESPACE
+5cc2ec7a21dfe6162157132a1ef9647d *R/destructure.R
+fe0a357388f48b5c022ee9b7e0917cdc *R/dot.R
+c8a72eb45da491d55daead3e08732b3e *R/dotify.R
+fbb5cfab6006f15075f01e8ee9895d49 *R/roxygen.R
+7b846b6a3ada0a8b9bb589eb188d6638 *R/zzz.R
+ad86600a753fc6c6e78ca9d1a691089e *README.md
+ee62e61d2838ccb72d81ec64abead375 *man/dotty.Rd
+a126791cb1386d0145df8485e03fb338 *tests/testthat.R
+6072b56089a157365e36753d49d8b43b *tests/testthat/test-dot.R
